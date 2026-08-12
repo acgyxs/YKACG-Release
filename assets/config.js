@@ -13,8 +13,8 @@ window.YKACG_CONFIG = {
   links: {
     app: {
       title: "APP下载",
-      subtitle: "Android 客户端",
-      url: ""
+      subtitle: "鸢空ACG 1.0.1 · Android",
+      url: "https://app.ykacg.com/%E9%B8%A2%E7%A9%BAACG%20V1.0.1/%E9%B8%A2%E7%A9%BAACG_1.0.1.apk"
     },
     group: {
       title: "加入群聊",
@@ -23,10 +23,8 @@ window.YKACG_CONFIG = {
     },
     contact: {
       title: "联系站长",
-      subtitle: "Telegram / 联系方式",
-      url: ""
+      subtitle: "Telegram：@ykacg",
+      url: "https://t.me/ykacg"
     }
   }
 };
-
-// GitHub Pages rebuild trigger: 2026-08-13
