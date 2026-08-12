@@ -28,3 +28,5 @@ window.YKACG_CONFIG = {
     }
   }
 };
+
+// GitHub Pages rebuild trigger: 2026-08-13
