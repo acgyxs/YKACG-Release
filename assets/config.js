@@ -13,7 +13,7 @@ window.YKACG_CONFIG = {
   links: {
     app: {
       title: "APP下载",
-      subtitle: "鸢空ACG 1.0.2 · Android",
+      subtitle: "鸢空ACG 1.0.3 · Android",
       url: "https://app.ykacg.com/%E9%B8%A2%E7%A9%BAACG%20V1.0.3/YKACG_1.0.3.apk"
     },
     group: {
